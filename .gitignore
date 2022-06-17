@@ -1,0 +1,6 @@
+.vscode
+inp16
+inp32
+outp
+*.o
+*.exe
